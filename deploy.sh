@@ -1,2 +1,3 @@
-This file contan deployment script
+Added one line
+This file contain deployment script
 
