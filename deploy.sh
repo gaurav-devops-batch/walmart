@@ -1,5 +1,4 @@
-Upated in dev branch
-Added one line
-
+updated in master branch
+Updated in dev branch
 This file contain deployment script
 
